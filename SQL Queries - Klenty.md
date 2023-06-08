@@ -4,7 +4,7 @@ These document consists of all the queries needed to retrieve necessary data fro
 
 1. **Get Company Cadences** >>> Select * from CompanyCadences
 
-2. **Get User Cadences >>> Select * from UserCadences where owner = 'bobb@cdata.com'
+2. **Get User Cadences** >>> Select * from UserCadences where owner = 'bobb@cdata.com'
 
 3. **Get Lists** >>> Select * from Lists
 
