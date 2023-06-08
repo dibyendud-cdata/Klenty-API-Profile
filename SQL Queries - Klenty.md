@@ -1,6 +1,6 @@
 # SQL Queries:
 
-These document consists of all the queries needed to retrieve necessary data from the existing tables in **Klenty**
+This document consists of all the queries needed to retrieve necessary data from the existing tables in **Klenty**
 
 1. **Get Company Cadences** >>> Select * from CompanyCadences
 
