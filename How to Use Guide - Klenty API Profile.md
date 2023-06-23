@@ -1,4 +1,22 @@
-﻿# How To Use Guide (API Profile)
+# Table of Contents
+
+ <details>
+ <summary>How To Use Guide</summary>
+	 <br>
+	 <ul>
+		 <li><a href="https://github.com/dibyendud-cdata/Klenty-API-Profile/blob/main/How%20to%20Use%20Guide%20-%20Klenty%20API%20Profile.md#pre-requisites/">Pre-Requisites</a></li>
+	 </ul>  	
+ 	 <ul>
+		 <li><a href="https://github.com/dibyendud-cdata/Klenty-API-Profile/blob/main/How%20to%20Use%20Guide%20-%20Klenty%20API%20Profile.md#using-the-api-profile-in-power-bi/">Using the API Profile in Power BI</a></li>
+	 </ul>
+	 <ul>
+		 <li><a href="https://github.com/dibyendud-cdata/Klenty-API-Profile/blob/main/How%20to%20Use%20Guide%20-%20Klenty%20API%20Profile.md#additional-information-on-sql-queries-to-be-used/">Additional Information on SQL Queries to be Used</a></li>
+	 </ul>
+ </details>
+ 
+<br>
+ 
+# How To Use Guide (API Profile)
 
 In this document we will demonstrate how to use **Klenty’s API Profile** in **Power BI Desktop**. The primary advantage of an API Profile (.apip file) is to retrieve data from the respective application without logging into it for the purpose of viewing or analysis of the required data. This document will take you through the steps of how to connect an API Profile (.apip) file to our API Driver (Power BI) and use that connection to visualize and analyze data in Power BI Desktop application
 
